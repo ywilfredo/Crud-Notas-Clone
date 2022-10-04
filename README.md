@@ -1,15 +1,15 @@
 # Socket.io CRUD
 
-This is a simple CRUD web application in real-time using Socket.io and Nodejs
+Esta es una aplicación web CRUD simple en tiempo real usando Socket.io y Nodejs
 
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/websockets-nodejs-crud
+git clone https://github.com/ywilfredo/crud-notas-de-tareas.git
 ```
 
 ```
-cd websockets-nodejs-crud
+cd crud-notas-de-tareas
 ```
 
 ```
